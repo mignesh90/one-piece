@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<div style="text-align:center;"> 
+<img style="width:30%; valign:center;" src="logo.png">
+<title>ONE PIECE</title>
+</div>
+   <div style="text-align:center; background-color:black; padding:15px 35px 15px 35px;">
+   <a style="color:gold;" href="https://www.bing.com/ck/a?!&&p=0508255679e7733ee3332a8979ca769a813bbf2a44656a5fe2aa2ae32ebc2c5bJmltdHM9MTc3ODYzMDQwMA&ptn=3&ver=2&hsh=4&fclid=12306500-22a2-6703-0653-71722397660a&psq=aniwave&u=a1aHR0cHM6Ly9hbml3YXZlLmNhc2Ev">Watch Now</a></div>
+<body bgcolor="gold">
+<p style="font-size:20px; text-align:center;"><b>The one piece is the popular anime.its main charecter is monkey d luffy.<br>It is the story about a pirate named gol d roger who starts the great pirate era and all the pirates are search for his treasure one piece.<br>Its about the goverments and its bad activities.</b></p>
+
+<h1 style="font-size:20px;">THE MAIN CHARECTERS</h1>
+<ul>
+  <li>MONKEY D LUFFY</li>
+  <li>RORONOA ZORO</li>
+  <li>VINSMOKE SANJI</li>
+</ul>
+
+  
+<div style="text-align:center;"> 
+<h1 style="font-size:30px; text-align:center;">THE MAIN CHARECTERS</h1>
+<img style="width:35%; valign:center;" src="luffy.png">
+<img style="width:30%; valign:right;" src="zoro.jpg">
+<img style="width:30%; valign:left;" src="sanji.jpg">
+
+
+<p>Contact us on <a style="color:red;"href="elichiro-oda@gmail.com">elichiro-oda@gmail.com</a></p></div>
